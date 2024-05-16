@@ -1,15 +1,15 @@
-import "reflect-metadata"
-import express, { Request, Response } from 'express';
+import express, { Request, Response, NextFunction } from 'express';
 import cors from 'cors';
-import winston from "winston";
-import { AppDataSource } from './data-source';
-import UserRouter from './routes/user.route';
+import winston from 'winston';
+import dotenv from 'dotenv';
+import AppDataSource from './adapters/database/data-source';
+
+dotenv.config();
 
 AppDataSource.initialize()
   .then(() => {
     const app = express();
-    app.use(express.json());
-    app.use(cors());
+    const port = process.env.PORT || 3000;
 
     const { combine, timestamp, label, printf } = winston.format;
 
@@ -21,35 +21,40 @@ AppDataSource.initialize()
       level: "silly",
       transports: [
         new (winston.transports.Console)(),
-        new (winston.transports.File)({ filename: "bella-burger.log" })
+        new (winston.transports.File)({ filename: "bella-burger-api.log" })
       ],
       format: combine(
-        label({ label: "bella-burger" }),
+        label({ label: "bella-burger-api" }),
         timestamp(),
         myFormat
       )
     })
 
-    app.use(UserRouter)
+    app.use(cors());
+    app.use(express.json());
+    app.use(express.urlencoded({ extended: true }));
 
-    app.use((error: { message: any; }, request: Request, response: Response) => {
+    app.get("/", (_request: Request, response: Response) => {
+      response.status(200).json({
+        message: "Welcome to Bella Burger API"
+      })
+    })
+
+    app.use((error: { message: any; }, request: Request, response: Response, _next: NextFunction) => {
       logger.error(`${request.method} ${request.baseUrl} - ${error.message}`);
       response.status(400).send({
         error: error.message,
       });
     });
 
-    const port = 3000;
-
     app.listen(port, () => {
       try {
-        logger.info(`Servidor rodando na porta ${port}`)
+        logger.info(`Bella Burger API is running on port ${port}`);
       } catch (error) {
         logger.error(error)
       }
     });
+   })
+  .catch((error) => { 
+    console.log(error)
   })
-  .catch((error) => {
-    console.log(error);
-  })
-
