@@ -5,7 +5,7 @@
   "main": "src/server.ts",
   "scripts": {
     "build": "tsc",
-    "dev": "node ./build/server.js",
+    "dev": "node ts-node ./build/server.js",
     "start": "tsc && nodemon ./src/server.ts"
   },
   "keywords": [],
@@ -25,6 +25,7 @@
     "@types/winston": "^2.4.4",
     "reflect-metadata": "^0.2.2",
     "ts-node": "^10.9.2",
+    "tsoa": "^6.2.1",
     "typeorm": "^0.3.20",
     "typescript": "^5.4.5"
   }
