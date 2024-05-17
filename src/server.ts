@@ -3,6 +3,8 @@ import cors from 'cors';
 import winston from 'winston';
 import dotenv from 'dotenv';
 import AppDataSource from './adapters/database/data-source';
+import UserRouter from './adapters/http/routes/user.route';
+import LoginRouter from './adapters/http/routes/login.route';
 
 dotenv.config();
 
@@ -34,11 +36,8 @@ AppDataSource.initialize()
     app.use(express.json());
     app.use(express.urlencoded({ extended: true }));
 
-    app.get("/", (_request: Request, response: Response) => {
-      response.status(200).json({
-        message: "Welcome to Bella Burger API"
-      })
-    })
+    app.use(UserRouter)
+    app.use(LoginRouter)
 
     app.use((error: { message: any; }, request: Request, response: Response, _next: NextFunction) => {
       logger.error(`${request.method} ${request.baseUrl} - ${error.message}`);
