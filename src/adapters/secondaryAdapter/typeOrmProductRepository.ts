@@ -10,11 +10,9 @@ class TypeOrmProductsRepositoryPort implements IProductRepositoryPort {
     return products;
   }
   
-  async findProductId(product_id: number): Promise<Product | null> {
-      const product = await this.productsRepository.findOne({
-        where: {product_id}
-      })
-      return product;
+  async findProductId(product_id: any): Promise<Product | null> {
+    const product = this.productsRepository.findOneBy({product_id})
+    return product
   }
 
   async createProduct(product: Product): Promise<Product> {

@@ -17,7 +17,7 @@ class ProductController {
 
   async getProduct(request: Request, response: Response): Promise<Response> {
     const { product_id } = request.params;
-    const product = await this.productService.getProduct(parseInt(product_id))
+    const product = await this.productService.getProduct(product_id)
     if (!product) {
       return response.status(404).json({
         message: "Nenhum produto encontrado"
@@ -27,11 +27,12 @@ class ProductController {
   }
 
   async createProduct(request: Request, response: Response): Promise<Response> {
-    const { name, price, image_url } = request.body;
+    const { name, price, image_url, category } = request.body;
     const product = await this.productService.createProduct({
       name: name,
       price: price,
-      image_url: image_url
+      image_url: image_url,
+      category: category
     } as Product)
     if (!product) {
       return response.status(400).json({

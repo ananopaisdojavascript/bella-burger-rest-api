@@ -8,7 +8,7 @@ class ProductService {
     return await this.productRepository.findAll()
   }
 
-  async getProduct(id: number): Promise<Product | null> {
+  async getProduct(id: number | null | string): Promise<Product | null> {
     return await this.productRepository.findProductId(id)
   }
 

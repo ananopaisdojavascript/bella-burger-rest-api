@@ -3,7 +3,7 @@ import { Entity, PrimaryGeneratedColumn, Column } from "typeorm"
 @Entity()
 class Product {
     @PrimaryGeneratedColumn()
-    product_id!: number | null;
+    product_id!: number | null | string
 
     @Column()
     name!: string
@@ -13,6 +13,9 @@ class Product {
 
     @Column()
     image_url!: string
+
+    @Column()
+    category!: string
 }
 
 export default Product;
