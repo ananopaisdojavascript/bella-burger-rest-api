@@ -1,6 +1,6 @@
 import { Request, Response } from 'express';
 import request from 'supertest';
-import app from  '../app';
+import app from  '../../app';
 
 app.get("/", (_request: Request, response: Response) => {
   response.status(200).send("Oi")

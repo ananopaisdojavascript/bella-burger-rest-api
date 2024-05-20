@@ -14,7 +14,7 @@ let Product = class Product {
 };
 __decorate([
     (0, typeorm_1.PrimaryGeneratedColumn)(),
-    __metadata("design:type", Object)
+    __metadata("design:type", Number)
 ], Product.prototype, "product_id", void 0);
 __decorate([
     (0, typeorm_1.Column)(),

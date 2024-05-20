@@ -16,12 +16,7 @@ const supertest_1 = __importDefault(require("supertest"));
 const data_source_1 = __importDefault(require("../adapters/database/data-source"));
 const login_entity_1 = __importDefault(require("../core/entity/login.entity"));
 const app_1 = __importDefault(require("../app"));
-const login = {
-    "email": "gabrielly.marcela.ferreira@dinamicaconsultoria.com",
-    "password": "hdsaLuqR5U",
-    "salon": false,
-    "kitchen": true
-};
+const test_1 = require("./test");
 describe('POST /login', () => {
     beforeEach(() => __awaiter(void 0, void 0, void 0, function* () {
         data_source_1.default.setOptions({
@@ -35,7 +30,7 @@ describe('POST /login', () => {
         yield data_source_1.default.destroy();
     }));
     it('should create login', () => __awaiter(void 0, void 0, void 0, function* () {
-        const response = yield (0, supertest_1.default)(app_1.default).post('/login').send(login);
+        const response = yield (0, supertest_1.default)(app_1.default).post('/login').send(test_1.login);
         expect(response.status).toBe(200);
     }));
 });

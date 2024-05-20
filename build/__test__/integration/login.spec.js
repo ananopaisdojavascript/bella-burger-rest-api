@@ -12,15 +12,20 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-const data_source_1 = __importDefault(require("../adapters/database/data-source"));
-const app_1 = __importDefault(require("../app"));
-const user_entity_1 = __importDefault(require("../core/entity/user.entity"));
 const supertest_1 = __importDefault(require("supertest"));
-const test_1 = require("./test");
-describe('POST /user', () => {
+const data_source_1 = __importDefault(require("../../adapters/database/data-source"));
+const login_entity_1 = __importDefault(require("../../core/entity/login.entity"));
+const app_1 = __importDefault(require("../../app"));
+const login = {
+    "email": "gabrielly.marcela.ferreira@dinamicaconsultoria.com",
+    "password": "hdsaLuqR5U",
+    "salon": false,
+    "kitchen": true
+};
+describe('POST /login', () => {
     beforeEach(() => __awaiter(void 0, void 0, void 0, function* () {
         data_source_1.default.setOptions({
-            entities: [user_entity_1.default],
+            entities: [login_entity_1.default],
             synchronize: true,
             logging: true
         });
@@ -29,8 +34,8 @@ describe('POST /user', () => {
     afterEach(() => __awaiter(void 0, void 0, void 0, function* () {
         yield data_source_1.default.destroy();
     }));
-    it('should create a new user', () => __awaiter(void 0, void 0, void 0, function* () {
-        const response = yield (0, supertest_1.default)(app_1.default).post('/users').send(test_1.newUser);
+    it('should create login', () => __awaiter(void 0, void 0, void 0, function* () {
+        const response = yield (0, supertest_1.default)(app_1.default).post('/login').send(login);
         expect(response.status).toBe(200);
     }));
 });

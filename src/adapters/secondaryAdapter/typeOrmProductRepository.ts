@@ -11,7 +11,8 @@ class TypeOrmProductsRepositoryPort implements IProductRepositoryPort {
   }
   
   async findProductId(product_id: any): Promise<Product | null> {
-    const product = this.productsRepository.findOneBy({product_id})
+    const product = this.productsRepository.findOne({where: {product_id: product_id}})
+    if(!product) return null;
     return product
   }
 

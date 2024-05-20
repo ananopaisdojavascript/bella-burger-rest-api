@@ -12,25 +12,12 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-const data_source_1 = __importDefault(require("../adapters/database/data-source"));
-const app_1 = __importDefault(require("../app"));
-const user_entity_1 = __importDefault(require("../core/entity/user.entity"));
 const supertest_1 = __importDefault(require("supertest"));
-const test_1 = require("./test");
-describe('POST /user', () => {
-    beforeEach(() => __awaiter(void 0, void 0, void 0, function* () {
-        data_source_1.default.setOptions({
-            entities: [user_entity_1.default],
-            synchronize: true,
-            logging: true
-        });
-        yield data_source_1.default.initialize();
-    }));
-    afterEach(() => __awaiter(void 0, void 0, void 0, function* () {
-        yield data_source_1.default.destroy();
-    }));
-    it('should create a new user', () => __awaiter(void 0, void 0, void 0, function* () {
-        const response = yield (0, supertest_1.default)(app_1.default).post('/users').send(test_1.newUser);
-        expect(response.status).toBe(200);
-    }));
+const app_1 = __importDefault(require("../../app"));
+app_1.default.get("/", (_request, response) => {
+    response.status(200).send("Oi");
 });
+it("the server should run on port 3000", () => __awaiter(void 0, void 0, void 0, function* () {
+    const response = yield (0, supertest_1.default)(app_1.default).get("/");
+    expect(response.status).toBe(200);
+}));

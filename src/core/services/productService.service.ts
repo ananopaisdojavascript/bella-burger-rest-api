@@ -8,10 +8,6 @@ class ProductService {
     return await this.productRepository.findAll()
   }
 
-  async getProduct(id: number | null | string): Promise<Product | null> {
-    return await this.productRepository.findProductId(id)
-  }
-
   async createProduct(product: Product): Promise<Product> {
     return await this.productRepository.createProduct(product)
   }

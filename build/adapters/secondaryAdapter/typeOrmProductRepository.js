@@ -26,7 +26,9 @@ class TypeOrmProductsRepositoryPort {
     }
     findProductId(product_id) {
         return __awaiter(this, void 0, void 0, function* () {
-            const product = this.productsRepository.findOneBy({ product_id });
+            const product = this.productsRepository.findOneBy({ product_id: product_id });
+            if (!product)
+                return null;
             return product;
         });
     }

@@ -1,6 +1,6 @@
-import AppDataSource from "../adapters/database/data-source";
-import app from "../app";
-import User from "../core/entity/user.entity";
+import AppDataSource from "../../adapters/database/data-source";
+import app from "../../app";
+import User from "../../core/entity/user.entity";
 import request from 'supertest';
 
 const newUser = {

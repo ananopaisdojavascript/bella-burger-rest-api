@@ -12,11 +12,19 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-const data_source_1 = __importDefault(require("../adapters/database/data-source"));
-const app_1 = __importDefault(require("../app"));
-const user_entity_1 = __importDefault(require("../core/entity/user.entity"));
+const data_source_1 = __importDefault(require("../../adapters/database/data-source"));
+const app_1 = __importDefault(require("../../app"));
+const user_entity_1 = __importDefault(require("../../core/entity/user.entity"));
 const supertest_1 = __importDefault(require("supertest"));
-const test_1 = require("./test");
+const newUser = {
+    "name": "Gabrielly Marcela Lívia Ferreira",
+    "email": "gabrielly.marcela.ferreira@dinamicaconsultoria.com",
+    "confirm_email": "gabrielly.marcela.ferreira@dinamicaconsultoria.com",
+    "password": "hdsaLuqR5U",
+    "confirm_password": "hdsaLuqR5U",
+    "salon": false,
+    "kitchen": true
+};
 describe('POST /user', () => {
     beforeEach(() => __awaiter(void 0, void 0, void 0, function* () {
         data_source_1.default.setOptions({
@@ -30,7 +38,7 @@ describe('POST /user', () => {
         yield data_source_1.default.destroy();
     }));
     it('should create a new user', () => __awaiter(void 0, void 0, void 0, function* () {
-        const response = yield (0, supertest_1.default)(app_1.default).post('/users').send(test_1.newUser);
+        const response = yield (0, supertest_1.default)(app_1.default).post('/users').send(newUser);
         expect(response.status).toBe(200);
     }));
 });

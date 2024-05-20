@@ -27,7 +27,7 @@ class ProductController {
     getProduct(request, response) {
         return __awaiter(this, void 0, void 0, function* () {
             const { product_id } = request.params;
-            const product = yield this.productService.getProduct(Number(product_id));
+            const product = yield this.productService.getProduct(parseInt(product_id));
             if (!product) {
                 return response.status(404).json({
                     message: "Nenhum produto encontrado"

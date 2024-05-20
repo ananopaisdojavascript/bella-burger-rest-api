@@ -10,6 +10,5 @@ const productController = new ProductController(productService)
 
 router.post('/products', productController.createProduct.bind(productController))
 router.get('/products', productController.getProducts.bind(productController))
-router.get('/products/:id', productController.getProduct.bind(productController))
 
 export default router;

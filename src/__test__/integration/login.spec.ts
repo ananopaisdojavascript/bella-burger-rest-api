@@ -1,7 +1,7 @@
 import request from 'supertest';
-import AppDataSource from "../adapters/database/data-source";
-import Login from '../core/entity/login.entity';
-import app from '../app';
+import AppDataSource from "../../adapters/database/data-source";
+import Login from '../../core/entity/login.entity';
+import app from '../../app';
 
 const login = {
   "email": "gabrielly.marcela.ferreira@dinamicaconsultoria.com",
