@@ -1,173 +1,254 @@
-2024-05-16T21:56:18.363Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T21:59:51.721Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T22:03:02.720Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T22:04:22.953Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T22:06:37.485Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T22:06:53.232Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:13:18.039Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:19:35.736Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:20:16.714Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:21:41.960Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:22:11.690Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:23:27.871Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:30:32.274Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:31:47.982Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:32:01.009Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:33:35.153Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:36:58.074Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:38:00.965Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:40:11.797Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:41:03.999Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:41:28.251Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:42:36.917Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:48:03.385Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:49:10.394Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:49:26.555Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:49:43.140Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:51:09.362Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:52:10.351Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:52:57.343Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:54:23.616Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:54:34.329Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-16T23:55:44.984Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T00:01:04.971Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T00:01:20.075Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T00:02:39.444Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T00:20:01.198Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T00:20:13.242Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T00:20:53.035Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T00:25:33.054Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T00:26:29.932Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T00:59:53.924Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T01:04:19.529Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T01:04:58.414Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T01:05:30.708Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T21:56:23.675Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T21:59:07.635Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T22:04:32.339Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:10:56.148Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:11:15.792Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:16:34.757Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:16:46.637Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:19:48.287Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:20:44.041Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:20:58.044Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:21:05.621Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:21:22.192Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:25:26.728Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:29:03.761Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:34:23.494Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:38:26.580Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:39:54.507Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:43:51.568Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:46:01.046Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:48:16.827Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:48:38.554Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:52:10.636Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:56:13.573Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:57:26.757Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:58:44.216Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-17T23:59:10.392Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T00:23:03.828Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T00:27:28.522Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T00:29:23.797Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T00:34:45.976Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T00:37:06.982Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T00:54:39.893Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T00:55:02.113Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T01:01:13.829Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T01:06:31.430Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T01:11:08.538Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T01:11:43.643Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T01:13:21.439Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T01:17:03.446Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T01:19:44.752Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-18T01:23:18.446Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T11:54:51.068Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:10:28.262Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:17:12.872Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:17:52.842Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:19:58.093Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:21:29.408Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:22:28.888Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:24:36.327Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:26:28.855Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:27:53.253Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:28:31.635Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:30:08.796Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:30:49.836Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:34:31.087Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:35:28.479Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:36:25.446Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:37:42.820Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:45:37.868Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:47:10.804Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:48:08.586Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:52:06.277Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T12:55:34.753Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T13:00:14.128Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T13:01:11.208Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T13:01:52.565Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T13:02:52.881Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T13:04:12.007Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T13:04:55.607Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T13:05:26.230Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T13:05:57.990Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T13:06:07.095Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T13:58:55.154Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:01:19.552Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:02:07.267Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:04:33.977Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:05:19.483Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:09:39.572Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:09:52.376Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:10:28.847Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:11:46.885Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:16:50.228Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:17:48.902Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:20:42.585Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:24:51.851Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:26:19.725Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:33:56.211Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:34:29.498Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:35:28.805Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:43:42.650Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:49:53.551Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:52:01.428Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:52:05.893Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:52:15.521Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:52:59.086Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:55:11.533Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:56:50.247Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-19T14:59:10.898Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T21:08:40.521Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T21:22:41.656Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T21:26:47.269Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T21:36:24.937Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T21:38:42.500Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T21:51:20.425Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T22:09:12.859Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T22:12:45.910Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T22:51:36.246Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T22:53:46.915Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T22:54:38.943Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T22:54:41.591Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T22:55:28.589Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T22:55:45.994Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T22:56:17.192Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T22:57:03.923Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T22:59:49.875Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:02:40.131Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:03:22.003Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:05:42.988Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:45:14.873Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:46:53.918Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:48:10.893Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:49:33.909Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:50:38.949Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:51:38.855Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:52:28.208Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:53:04.806Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:56:17.862Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:57:35.117Z [bella-burger-api] info : Bella Burger API is running on port 3000
-2024-05-20T23:58:17.363Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:21:10.142Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:25:49.643Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:27:20.994Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:27:55.328Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:33:42.895Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:38:43.829Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:39:54.210Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:41:30.236Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:45:13.887Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:45:32.328Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:45:42.358Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:46:51.736Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:53:01.654Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:53:48.164Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:54:49.894Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:54:54.171Z [bella-burger-api] info : GET /users
+2024-05-22T01:57:44.239Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:57:52.647Z [bella-burger-api] info : GET /users
+2024-05-22T01:58:57.333Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T01:59:05.819Z [bella-burger-api] info : POST /users - {"name":"Isabel Luiza Farias","email":"isabel-farias89@reisereis.com.br","confirm_email":"isabel-farias89@reisereis.com.br","password":"$2b$10$FtHqGwS1NtYpaA5bKFa2Gemxznmo0UFDlrrb1LqBNvjxyINRYNrH6","confirm_password":"$2b$10$FtHqGwS1NtYpaA5bKFa2Gemxznmo0UFDlrrb1LqBNvjxyINRYNrH6","salon":false,"kitchen":true,"id":1}
+2024-05-22T01:59:20.258Z [bella-burger-api] info : GET /users
+2024-05-22T02:00:09.140Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T02:03:03.274Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T02:05:03.711Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T02:05:12.483Z [bella-burger-api] info : GET /users
+2024-05-22T02:06:48.028Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T02:07:07.112Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T02:07:11.959Z [bella-burger-api] info : GET /user/:id
+2024-05-22T02:07:43.088Z [bella-burger-api] info : POST /users - {"name":"Tatiane Beatriz Nunes","email":"tatiane_beatriz_nunes@gerdal.com.br","confirm_email":"tatiane_beatriz_nunes@gerdal.com.br","password":"$2b$10$SIsn5stP/HlmXvsg0zehAOe7KPGthSp78mW9wIh3/1EU4VCx0TogS","confirm_password":"$2b$10$SIsn5stP/HlmXvsg0zehAOe7KPGthSp78mW9wIh3/1EU4VCx0TogS","salon":false,"kitchen":true,"id":2}
+2024-05-22T02:07:47.078Z [bella-burger-api] info : GET /users
+2024-05-22T02:07:53.164Z [bella-burger-api] info : GET /user/:id
+2024-05-22T21:25:48.966Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:26:05.284Z [bella-burger-api] info : GET /users
+2024-05-22T21:26:46.158Z [bella-burger-api] info : POST /users - {"name":"Adriana Carla Santos","email":"adrianacarlasantos@editorazap.com.br","confirm_email":"adrianacarlasantos@editorazap.com.br","password":"$2b$10$y2NEmqIwQ3VajcdjQbzSN.x7Y6DyyAJKaq0kxo/x4xID.5wdlK9iC","confirm_password":"$2b$10$y2NEmqIwQ3VajcdjQbzSN.x7Y6DyyAJKaq0kxo/x4xID.5wdlK9iC","salon":false,"kitchen":true,"id":3}
+2024-05-22T21:27:00.272Z [bella-burger-api] info : POST /users - {"name":"Carlos Giovanni Sebastião Galvão","email":"carlosgiovannigalvao@tahoo.com.br","confirm_email":"carlosgiovannigalvao@tahoo.com.br","password":"$2b$10$IpBIqyZnyrdypaDHAP5dve/oKHfxl9qMyT62SSDyBP9x9BGUOGjwC","confirm_password":"$2b$10$IpBIqyZnyrdypaDHAP5dve/oKHfxl9qMyT62SSDyBP9x9BGUOGjwC","salon":false,"kitchen":true,"id":4}
+2024-05-22T21:27:14.991Z [bella-burger-api] info : POST /users - {"name":"Carlos Bryan Levi Martins","email":"carlos-martins86@metroquali.com.br","confirm_email":"carlos-martins86@metroquali.com.br","password":"$2b$10$h3cg4x4WTvOj2b2aE1nD.e3Skss/pLPMg0XnZKs2LfBNtKuAYDssm","confirm_password":"$2b$10$h3cg4x4WTvOj2b2aE1nD.e3Skss/pLPMg0XnZKs2LfBNtKuAYDssm","salon":false,"kitchen":true,"id":5}
+2024-05-22T21:27:28.113Z [bella-burger-api] info : POST /users - {"name":"Noah João Eduardo Almeida","email":"noah-almeida92@gerdal.com.br","confirm_email":"noah-almeida92@gerdal.com.br","password":"$2b$10$amF7/XXF087rOQQF.Q.eAOffAcq/iulhHkgShnB8bMt/tITvKVvWy","confirm_password":"$2b$10$amF7/XXF087rOQQF.Q.eAOffAcq/iulhHkgShnB8bMt/tITvKVvWy","salon":true,"kitchen":false,"id":6}
+2024-05-22T21:27:42.012Z [bella-burger-api] info : POST /users - {"name":"Isadora Mirella Fernanda da Conceição","email":"isadora_daconceicao@willianareiaepedra.com.br","confirm_email":"isadora_daconceicao@willianareiaepedra.com.br","password":"$2b$10$6brP7qS5IhcADHth/9nkO.cBHEgxhonBsT8tt/Vf96gH.cu8Y0F0O","confirm_password":"$2b$10$6brP7qS5IhcADHth/9nkO.cBHEgxhonBsT8tt/Vf96gH.cu8Y0F0O","salon":true,"kitchen":false,"id":7}
+2024-05-22T21:27:56.079Z [bella-burger-api] info : POST /users - {"name":"Helena Sebastiana Joana Brito","email":"helena.sebastiana.brito@andradecamara.com.br","confirm_email":"helena.sebastiana.brito@andradecamara.com.br","password":"$2b$10$C3IJxII4FL5CJNVD.ock7uSbhz6tWe63ldZW4Jq83b6rZYrWyCCGC","confirm_password":"$2b$10$C3IJxII4FL5CJNVD.ock7uSbhz6tWe63ldZW4Jq83b6rZYrWyCCGC","salon":true,"kitchen":false,"id":8}
+2024-05-22T21:28:06.479Z [bella-burger-api] info : POST /users - {"name":"Igor Ruan Almeida","email":"igor.ruan.almeida@zf.com","confirm_email":"igor.ruan.almeida@zf.com","password":"$2b$10$GGKZXTCNYXysAmgPOQZ2ZeqMQoWUJHE.cnYe1bN4uUMkdBb9vpNKO","confirm_password":"$2b$10$GGKZXTCNYXysAmgPOQZ2ZeqMQoWUJHE.cnYe1bN4uUMkdBb9vpNKO","salon":true,"kitchen":false,"id":9}
+2024-05-22T21:28:19.179Z [bella-burger-api] info : POST /users - {"name":"Nelson Breno Galvão","email":"nelson_galvao@whgames.com.br","confirm_email":"nelson_galvao@whgames.com.br","password":"$2b$10$0uA0A1B.NvY6waffsrbdauEdK9TkbR5EkKyovHkZomH35Q2LO4pwG","confirm_password":"$2b$10$0uA0A1B.NvY6waffsrbdauEdK9TkbR5EkKyovHkZomH35Q2LO4pwG","salon":true,"kitchen":false,"id":10}
+2024-05-22T21:28:30.685Z [bella-burger-api] info : POST /users - {"name":"Stella Sophia Lara Ramos","email":"stellasophiaramos@agaxtur.com.br","confirm_email":"stellasophiaramos@agaxtur.com.br","password":"$2b$10$HQVBCn5uKGsYsjwnOfTPZ.HIrgrSTIoVxHtDs6wFN7ik2SzmdcoPW","confirm_password":"$2b$10$HQVBCn5uKGsYsjwnOfTPZ.HIrgrSTIoVxHtDs6wFN7ik2SzmdcoPW","salon":true,"kitchen":false,"id":11}
+2024-05-22T21:28:43.743Z [bella-burger-api] info : POST /users - {"name":"Manuel Enrico Figueiredo","email":"manuel-figueiredo72@sabereler.com.br","confirm_email":"manuel-figueiredo72@sabereler.com.br","password":"$2b$10$RqHilBbg5axtq6AtA/W0wuWiOIOjKvJu7Dhio5.Dwiycneus6/USS","confirm_password":"$2b$10$RqHilBbg5axtq6AtA/W0wuWiOIOjKvJu7Dhio5.Dwiycneus6/USS","salon":true,"kitchen":false,"id":12}
+2024-05-22T21:28:53.703Z [bella-burger-api] info : POST /users - {"name":"Diogo Davi Teixeira","email":"diogodaviteixeira@superativacoop.com.br","confirm_email":"diogodaviteixeira@superativacoop.com.br","password":"$2b$10$e8mXfFa2K8eoY5c8jHIdi.dZCjojf08rBh5H9O3YUPzj1SdUN749y","confirm_password":"$2b$10$e8mXfFa2K8eoY5c8jHIdi.dZCjojf08rBh5H9O3YUPzj1SdUN749y","salon":true,"kitchen":false,"id":13}
+2024-05-22T21:29:04.896Z [bella-burger-api] info : POST /users - {"name":"Danilo Paulo Tomás da Cruz","email":"danilo_paulo_dacruz@supercarioca.com","confirm_email":"danilo_paulo_dacruz@supercarioca.com","password":"$2b$10$jtHumy9ly52YX78nPEXRJ.45c64y7raiIZF4Dy2Tns3tjGLx7ep86","confirm_password":"$2b$10$jtHumy9ly52YX78nPEXRJ.45c64y7raiIZF4Dy2Tns3tjGLx7ep86","salon":true,"kitchen":false,"id":14}
+2024-05-22T21:29:15.672Z [bella-burger-api] info : POST /users - {"name":"Giovanni Martin Fogaça","email":"giovanni_fogaca@rotauniformes.com.br","confirm_email":"giovanni_fogaca@rotauniformes.com.br","password":"$2b$10$RJ3ouN0eSGc2sxquQYp17eJuYWrHEWsebyDJ1YdMh9y3ag4Ps4oa2","confirm_password":"$2b$10$RJ3ouN0eSGc2sxquQYp17eJuYWrHEWsebyDJ1YdMh9y3ag4Ps4oa2","salon":true,"kitchen":false,"id":15}
+2024-05-22T21:29:25.268Z [bella-burger-api] info : GET /users
+2024-05-22T21:29:35.911Z [bella-burger-api] info : GET /user/:id
+2024-05-22T21:33:52.066Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:36:24.390Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:37:13.463Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:38:30.073Z [bella-burger-api] info : GET /users
+2024-05-22T21:40:48.092Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:46:19.127Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:47:52.301Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:49:30.808Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:50:12.436Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:50:46.209Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:52:18.197Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:53:22.431Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:57:15.243Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T21:57:52.744Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T22:02:20.009Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T22:02:55.790Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T22:03:28.048Z [bella-burger-api] error : GET  - relação "user" não existe
+2024-05-22T22:03:55.823Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T22:03:59.430Z [bella-burger-api] info : GET /users
+2024-05-22T22:06:44.706Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T22:06:56.688Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T22:08:42.993Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T22:08:48.256Z [bella-burger-api] info : GET /users
+2024-05-22T22:09:10.385Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T22:10:06.572Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T22:10:32.347Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T22:10:38.925Z [bella-burger-api] info : GET /user/:id
+2024-05-22T22:11:36.434Z [bella-burger-api] info : POST /users - {"name":"Isabel Luiza Farias","email":"isabel-farias89@reisereis.com.br","confirm_email":"isabel-farias89@reisereis.com.br","password":"$2b$10$b9SL7ejMO5ucQZwl4aHJEO2b/s0Uz91yf8g3kvVraZ10ZhGAIPKpq","confirm_password":"$2b$10$b9SL7ejMO5ucQZwl4aHJEO2b/s0Uz91yf8g3kvVraZ10ZhGAIPKpq","salon":false,"kitchen":true,"id":1}
+2024-05-22T22:11:41.140Z [bella-burger-api] info : GET /users
+2024-05-22T23:21:51.074Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:22:02.192Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:22:18.387Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:22:24.172Z [bella-burger-api] info : GET /users
+2024-05-22T23:22:51.174Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:23:15.730Z [bella-burger-api] info : GET /users
+2024-05-22T23:25:38.042Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:25:48.489Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:25:55.809Z [bella-burger-api] info : GET /users
+2024-05-22T23:26:32.635Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:26:45.568Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:27:01.775Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:27:06.553Z [bella-burger-api] info : GET /users
+2024-05-22T23:27:17.941Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:27:50.341Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:33:07.517Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:33:16.153Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:33:35.067Z [bella-burger-api] info : GET /users
+2024-05-22T23:34:39.243Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:34:51.254Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:35:56.607Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:36:01.281Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:36:16.152Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:37:28.710Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:37:36.097Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:39:30.630Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:39:39.405Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:40:49.970Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:41:01.310Z [bella-burger-api] info : GET /users
+2024-05-22T23:41:13.208Z [bella-burger-api] info : GET /users
+2024-05-22T23:42:09.426Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:42:15.737Z [bella-burger-api] info : GET /users
+2024-05-22T23:42:40.679Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:42:50.907Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:43:07.168Z [bella-burger-api] info : GET /users
+2024-05-22T23:43:35.173Z [bella-burger-api] info : GET /users
+2024-05-22T23:43:39.132Z [bella-burger-api] info : GET /user/:id
+2024-05-22T23:44:29.668Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:44:57.199Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:46:20.742Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:46:42.499Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:47:26.258Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:48:15.392Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:48:23.268Z [bella-burger-api] info : GET /users
+2024-05-22T23:49:08.884Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:49:15.791Z [bella-burger-api] info : GET /users
+2024-05-22T23:49:58.731Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:50:08.217Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:53:43.236Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:53:48.504Z [bella-burger-api] info : POST /users - {"name":"Tatiane Beatriz Nunes","email":"tatiane_beatriz_nunes@gerdal.com.br","confirm_email":"tatiane_beatriz_nunes@gerdal.com.br","password":"$2b$10$bIx5qv4hlgOaf7AAg.gQOuPgTuu0CcUmK4Xla4gP9xDLRdDCeaw8a","confirm_password":"$2b$10$bIx5qv4hlgOaf7AAg.gQOuPgTuu0CcUmK4Xla4gP9xDLRdDCeaw8a","salon":false,"kitchen":true,"id":2}
+2024-05-22T23:53:52.870Z [bella-burger-api] info : GET /users
+2024-05-22T23:54:09.620Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-22T23:54:58.524Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:55:08.302Z [bella-burger-api] info : GET /users
+2024-05-22T23:56:23.019Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:56:32.487Z [bella-burger-api] info : GET /users
+2024-05-22T23:57:52.538Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:58:02.329Z [bella-burger-api] info : GET /users
+2024-05-22T23:58:11.025Z [bella-burger-api] info : GET /users
+2024-05-22T23:59:16.532Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-22T23:59:24.561Z [bella-burger-api] info : GET /users
+2024-05-22T23:59:24.640Z [bella-burger-api] info : GET /user/:id
+2024-05-22T23:59:32.041Z [bella-burger-api] info : GET /users
+2024-05-22T23:59:37.574Z [bella-burger-api] info : GET /user/:id
+2024-05-23T00:00:43.574Z [bella-burger-api] info : POST /users - {"name":"Adriana Carla Santos","email":"adrianacarlasantos@editorazap.com.br","confirm_email":"adrianacarlasantos@editorazap.com.br","password":"$2b$10$VzzGPLJ/iCf1h98463QqVe0GXXogo5KL8m9wbT25WyOTfpZGqX9g2","confirm_password":"$2b$10$VzzGPLJ/iCf1h98463QqVe0GXXogo5KL8m9wbT25WyOTfpZGqX9g2","salon":false,"kitchen":true,"id":3}
+2024-05-23T00:00:57.366Z [bella-burger-api] info : POST /users - {"name":"Carlos Giovanni Sebastião Galvão","email":"carlosgiovannigalvao@tahoo.com.br","confirm_email":"carlosgiovannigalvao@tahoo.com.br","password":"$2b$10$JKy7XY0cl/gC0Zwvjkh4LOnoMCm25Xk9HaUm7Dt6ljoxfX52W.QC2","confirm_password":"$2b$10$JKy7XY0cl/gC0Zwvjkh4LOnoMCm25Xk9HaUm7Dt6ljoxfX52W.QC2","salon":false,"kitchen":true,"id":4}
+2024-05-23T00:01:16.198Z [bella-burger-api] info : POST /users - {"name":"Carlos Bryan Levi Martins","email":"carlos-martins86@metroquali.com.br","confirm_email":"carlos-martins86@metroquali.com.br","password":"$2b$10$H9gT0tEFAfSwiMRX34K7..vX/QaxP1ch8ADkGBWDERjlufDziy.ES","confirm_password":"$2b$10$H9gT0tEFAfSwiMRX34K7..vX/QaxP1ch8ADkGBWDERjlufDziy.ES","salon":false,"kitchen":true,"id":5}
+2024-05-23T00:01:29.598Z [bella-burger-api] info : POST /users - {"name":"Noah João Eduardo Almeida","email":"noah-almeida92@gerdal.com.br","confirm_email":"noah-almeida92@gerdal.com.br","password":"$2b$10$EWNEEH51/I2jp.R5mQ9hMuE2djNCjZnlj3cgb0eBJaHYQ3jx0dY5C","confirm_password":"$2b$10$EWNEEH51/I2jp.R5mQ9hMuE2djNCjZnlj3cgb0eBJaHYQ3jx0dY5C","salon":true,"kitchen":false,"id":6}
+2024-05-23T00:01:42.025Z [bella-burger-api] info : POST /users - {"name":"Isadora Mirella Fernanda da Conceição","email":"isadora_daconceicao@willianareiaepedra.com.br","confirm_email":"isadora_daconceicao@willianareiaepedra.com.br","password":"$2b$10$NJ.wgSIOCRSU99C3UpIbtewtessbpb1VA.29PfpfBK1IX89XkLUYK","confirm_password":"$2b$10$NJ.wgSIOCRSU99C3UpIbtewtessbpb1VA.29PfpfBK1IX89XkLUYK","salon":true,"kitchen":false,"id":7}
+2024-05-23T00:01:53.831Z [bella-burger-api] info : POST /users - {"name":"Helena Sebastiana Joana Brito","email":"helena.sebastiana.brito@andradecamara.com.br","confirm_email":"helena.sebastiana.brito@andradecamara.com.br","password":"$2b$10$6qs.Deev7uebPPQIpWZDDemzoFbuS626gcc1J362Az0.rk2EEDxKy","confirm_password":"$2b$10$6qs.Deev7uebPPQIpWZDDemzoFbuS626gcc1J362Az0.rk2EEDxKy","salon":true,"kitchen":false,"id":8}
+2024-05-23T00:02:04.756Z [bella-burger-api] info : POST /users - {"name":"Igor Ruan Almeida","email":"igor.ruan.almeida@zf.com","confirm_email":"igor.ruan.almeida@zf.com","password":"$2b$10$dX3mEx2ylFIfVa1kPo3bFOnT2vYURs3LAx4sAyEvgC/UlFHOOpv3a","confirm_password":"$2b$10$dX3mEx2ylFIfVa1kPo3bFOnT2vYURs3LAx4sAyEvgC/UlFHOOpv3a","salon":true,"kitchen":false,"id":9}
+2024-05-23T00:02:16.275Z [bella-burger-api] info : POST /users - {"name":"Nelson Breno Galvão","email":"nelson_galvao@whgames.com.br","confirm_email":"nelson_galvao@whgames.com.br","password":"$2b$10$dqUg9qw9vAeBTR4ACQhC3eKdfhCdtf60qGtj5NWY7InSRyHUmlX9O","confirm_password":"$2b$10$dqUg9qw9vAeBTR4ACQhC3eKdfhCdtf60qGtj5NWY7InSRyHUmlX9O","salon":true,"kitchen":false,"id":10}
+2024-05-23T00:02:28.109Z [bella-burger-api] info : POST /users - {"name":"Stella Sophia Lara Ramos","email":"stellasophiaramos@agaxtur.com.br","confirm_email":"stellasophiaramos@agaxtur.com.br","password":"$2b$10$/hSwKH/JSVucbJwtCcqRBed7ZaJc732tz2HR7Yu.7LyCMD2L54SR.","confirm_password":"$2b$10$/hSwKH/JSVucbJwtCcqRBed7ZaJc732tz2HR7Yu.7LyCMD2L54SR.","salon":true,"kitchen":false,"id":11}
+2024-05-23T00:02:39.738Z [bella-burger-api] info : POST /users - {"name":"Manuel Enrico Figueiredo","email":"manuel-figueiredo72@sabereler.com.br","confirm_email":"manuel-figueiredo72@sabereler.com.br","password":"$2b$10$z0i7SjQjHVLi.gyt7Uwpu.5CO1aq1CiS8j9QhaHzqh/5IcOgDbo2a","confirm_password":"$2b$10$z0i7SjQjHVLi.gyt7Uwpu.5CO1aq1CiS8j9QhaHzqh/5IcOgDbo2a","salon":true,"kitchen":false,"id":12}
+2024-05-23T00:02:51.847Z [bella-burger-api] info : POST /users - {"name":"Diogo Davi Teixeira","email":"diogodaviteixeira@superativacoop.com.br","confirm_email":"diogodaviteixeira@superativacoop.com.br","password":"$2b$10$sYbw92E0KGuyLy0o5cDieOlKgwYf4O9gpFb8QX3LPJraqnBzhpl42","confirm_password":"$2b$10$sYbw92E0KGuyLy0o5cDieOlKgwYf4O9gpFb8QX3LPJraqnBzhpl42","salon":true,"kitchen":false,"id":13}
+2024-05-23T00:03:04.495Z [bella-burger-api] info : POST /users - {"name":"Danilo Paulo Tomás da Cruz","email":"danilo_paulo_dacruz@supercarioca.com","confirm_email":"danilo_paulo_dacruz@supercarioca.com","password":"$2b$10$wic3/5WwjgdpQc2ZOjh5NuIBvICNl5hUdo3V3vjOk/BJHrMEQPzja","confirm_password":"$2b$10$wic3/5WwjgdpQc2ZOjh5NuIBvICNl5hUdo3V3vjOk/BJHrMEQPzja","salon":true,"kitchen":false,"id":14}
+2024-05-23T00:03:15.728Z [bella-burger-api] info : POST /users - {"name":"Giovanni Martin Fogaça","email":"giovanni_fogaca@rotauniformes.com.br","confirm_email":"giovanni_fogaca@rotauniformes.com.br","password":"$2b$10$uhUC3To8uT88pFHictueL./AVnt0CDI8SY3OwmaSCIgfFwJwukTl6","confirm_password":"$2b$10$uhUC3To8uT88pFHictueL./AVnt0CDI8SY3OwmaSCIgfFwJwukTl6","salon":true,"kitchen":false,"id":15}
+2024-05-23T00:03:19.794Z [bella-burger-api] info : GET /users
+2024-05-23T00:05:43.879Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:05:56.661Z [bella-burger-api] info : GET /users
+2024-05-23T00:05:56.736Z [bella-burger-api] info : GET /user/:id
+2024-05-23T00:05:56.861Z [bella-burger-api] info : POST /users - {"name":"Márcio Nelson Pinto","email":"marcio.nelson.pinto@unifox.com.br","confirm_email":"marcio.nelson.pinto@unifox.com.br","password":"$2b$10$11yFFvynLQa4QkjcsWM3Iucm/N9rP9v5FVrlokaqFoG.R.2bmImpq","confirm_password":"$2b$10$11yFFvynLQa4QkjcsWM3Iucm/N9rP9v5FVrlokaqFoG.R.2bmImpq","salon":false,"kitchen":true,"id":16}
+2024-05-23T00:06:05.107Z [bella-burger-api] info : GET /users
+2024-05-23T00:06:40.557Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:06:49.135Z [bella-burger-api] info : GET /users
+2024-05-23T00:06:49.204Z [bella-burger-api] info : GET /user/:id
+2024-05-23T00:06:54.620Z [bella-burger-api] info : GET /users
+2024-05-23T00:08:36.357Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:08:43.703Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:08:53.035Z [bella-burger-api] info : GET /users
+2024-05-23T00:09:33.350Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:09:42.616Z [bella-burger-api] info : GET /users
+2024-05-23T00:09:42.685Z [bella-burger-api] info : GET /user/:id
+2024-05-23T00:09:42.808Z [bella-burger-api] info : POST /users - {"name":"Márcio Nelson Pinto","email":"marcio.nelson.pinto@unifox.com.br","confirm_email":"marcio.nelson.pinto@unifox.com.br","password":"$2b$10$7n0rBHlGF9XBvkIpV/A6ceVlCgdcA7zc4Pz7iZZy4uMcmnpLLlxQ.","confirm_password":"$2b$10$7n0rBHlGF9XBvkIpV/A6ceVlCgdcA7zc4Pz7iZZy4uMcmnpLLlxQ.","salon":false,"kitchen":true,"id":17}
+2024-05-23T00:09:50.875Z [bella-burger-api] info : GET /users
+2024-05-23T00:11:12.555Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:11:47.037Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:11:52.805Z [bella-burger-api] info : GET /users
+2024-05-23T00:12:19.684Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:12:25.184Z [bella-burger-api] info : GET /users
+2024-05-23T00:13:31.483Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:13:38.603Z [bella-burger-api] info : GET /users
+2024-05-23T00:13:38.672Z [bella-burger-api] info : GET /user/:id
+2024-05-23T00:16:05.749Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:16:30.555Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:18:31.892Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:22:08.000Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:24:58.988Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:25:47.483Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:26:29.387Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:27:02.249Z [bella-burger-api] error : POST  - No metadata for "Login" was found.
+2024-05-23T00:27:45.794Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:27:52.012Z [bella-burger-api] info : POST /users - {"name":"Giovanni Martin Fogaça","email":"giovanni_fogaca@rotauniformes.com.br","password":"$2b$10$q1kGu.M/O9Q9SQ7Oix7TRuMdLFjo.PL7r4cA8U3D728G0dcXTOf/G","salon":true,"kitchen":false,"id":1}
+2024-05-23T00:28:27.553Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:29:20.574Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:29:51.676Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:36:03.441Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:38:22.198Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:48:02.080Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:49:35.201Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:50:04.033Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:50:39.232Z [bella-burger-api] info : POST /products - {"name":"Café Americano","price":5,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126384/burger-queen-image/american-coffee_p65gkk.jpg","category":"Café da manhã","product_id":1}
+2024-05-23T00:51:25.811Z [bella-burger-api] info : POST /products - {"name":"Café com Leite","price":7,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126384/burger-queen-image/coffee-with-milk_acssn5.jpg","category":"Café da manhã","product_id":2}
+2024-05-23T00:52:00.577Z [bella-burger-api] info : POST /products - {"name":"Sanduíche de Presunto com Queijo","price":10,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126386/burger-queen-image/sandwhich_tabqjj.jpg","category":"Café da manhã","product_id":3}
+2024-05-23T00:52:29.122Z [bella-burger-api] info : POST /products - {"name":"Suco de Fruta Natural","price":7,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126385/burger-queen-image/juice_xcsxmy.jpg","category":"Café da manhã","product_id":4}
+2024-05-23T00:52:33.624Z [bella-burger-api] info : GET /products
+2024-05-23T00:52:38.189Z [bella-burger-api] info : GET /products/:id
+2024-05-23T00:53:31.652Z [bella-burger-api] info : POST /products - {"name":"Hambúrger Simples de Carne","price":10,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126386/burger-queen-image/meatham_i3xufi.jpg","category":"Resto do dia","product_id":5}
+2024-05-23T00:53:55.288Z [bella-burger-api] info : POST /products - {"name":"Hambúrger Simples de Frango","price":10,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126384/burger-queen-image/chickenham_iccmh0.jpg","category":"Resto do dia","product_id":6}
+2024-05-23T00:54:14.226Z [bella-burger-api] info : POST /products - {"name":"Hambúrger Simples Vegetariano","price":10,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126387/burger-queen-image/veggieham_nr3mdw.jpg","category":"Resto do dia","product_id":7}
+2024-05-23T00:54:41.861Z [bella-burger-api] info : POST /products - {"name":"Hambúrger Duplo de Carne","price":15,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126385/burger-queen-image/doublemeatham_yp5mnf.jpg","category":"Resto do dia","product_id":8}
+2024-05-23T00:55:00.698Z [bella-burger-api] info : POST /products - {"name":"Hambúrger Duplo de Frango","price":15,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126384/burger-queen-image/doublechickenham_b2f40l.jpg","category":"Resto do dia","product_id":9}
+2024-05-23T00:55:19.450Z [bella-burger-api] info : POST /products - {"name":"Hambúrger Duplo Vegetariano","price":15,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126384/burger-queen-image/doubleveggieham_zkj11f.jpg","category":"Resto do dia","product_id":10}
+2024-05-23T00:55:49.570Z [bella-burger-api] info : POST /products - {"name":"Batata Frita","price":5,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126385/burger-queen-image/frenchfries_carizx.jpg","category":"Resto do dia","product_id":11}
+2024-05-23T00:56:13.929Z [bella-burger-api] info : POST /products - {"name":"Anéis de Cebola","price":5,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126385/burger-queen-image/onionrings_rhzbpv.jpg","category":"Resto do dia","product_id":12}
+2024-05-23T00:56:40.134Z [bella-burger-api] info : POST /products - {"name":"Água 500ml","price":5,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126387/burger-queen-image/water_dyhple.jpg","category":"Resto do dia","product_id":13}
+2024-05-23T00:56:59.099Z [bella-burger-api] info : POST /products - {"name":"Água 750ml","price":7,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126387/burger-queen-image/water2_qd1dq8.jpg","category":"Resto do dia","product_id":14}
+2024-05-23T00:57:23.411Z [bella-burger-api] info : POST /products - {"name":"Refrigerante 500ml","price":7,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126386/burger-queen-image/soda2_vteqw9.jpg","category":"Resto do dia","product_id":15}
+2024-05-23T00:57:41.262Z [bella-burger-api] info : POST /products - {"name":"Refrigerante 750ml","price":10,"url":"https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126386/burger-queen-image/soda1_o7h1vo.jpg","category":"Resto do dia","product_id":16}
+2024-05-23T00:57:45.995Z [bella-burger-api] info : GET /products
+2024-05-23T00:58:54.098Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:58:59.948Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:59:38.558Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T00:59:48.274Z [bella-burger-api] info : GET /users
+2024-05-23T00:59:48.344Z [bella-burger-api] info : GET /user/:id
+2024-05-23T01:00:00.796Z [bella-burger-api] info : GET /users
+2024-05-23T01:00:57.846Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:01:27.037Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:03:13.729Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:03:22.676Z [bella-burger-api] info : GET /products
+2024-05-23T01:03:22.678Z [bella-burger-api] info : GET /users
+2024-05-23T01:03:22.758Z [bella-burger-api] info : GET /user/:id
+2024-05-23T01:03:22.758Z [bella-burger-api] info : GET /products/:id
+2024-05-23T01:03:29.280Z [bella-burger-api] info : GET /users
+2024-05-23T01:03:34.666Z [bella-burger-api] info : GET /products
+2024-05-23T01:05:09.292Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:21:35.163Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:21:54.007Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:22:55.824Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:23:10.109Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:23:37.832Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:24:38.473Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:25:58.111Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:27:19.356Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:32:57.834Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:39:53.201Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:44:45.311Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:57:17.179Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:57:58.219Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:59:16.536Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T01:59:29.373Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T02:01:51.462Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T02:02:12.762Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T02:03:15.661Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T02:03:47.939Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T02:04:17.097Z [bella-burger-api] info : GET /orders
+2024-05-23T02:06:19.885Z [bella-burger-api] error : POST  - Relation with property path product_id in entity was not found.

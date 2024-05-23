@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
-import AppDataSource from './adapters/database/data-source';
 import app, { logger } from './app';
+import AppDataSource from './database/data-source';
 dotenv.config();
 
 AppDataSource.initialize()

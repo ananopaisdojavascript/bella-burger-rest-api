@@ -1,9 +1,10 @@
 import express, { Request, Response, NextFunction } from 'express';
 import cors from 'cors';
 import winston from 'winston';
-import UserRouter from './adapters/http/routes/user.route';
-import LoginRouter from './adapters/http/routes/login.route';
-import ProductRouter from './adapters/http/routes/product.route';
+import UserRouter from './routes/user.route';
+import LoginRouter from './routes/login.route';
+import ProductRouter from './routes/product.route';
+import OrderRouter from './routes/order.route';
 
 const app = express();
 
@@ -33,6 +34,7 @@ app.use(express.urlencoded({ extended: true }));
 app.use(UserRouter)
 app.use(LoginRouter)
 app.use(ProductRouter)
+app.use(OrderRouter)
 
 app.use((error: { message: any; }, request: Request, response: Response, _next: NextFunction) => {
   logger.error(`${request.method} ${request.baseUrl} - ${error.message}`);

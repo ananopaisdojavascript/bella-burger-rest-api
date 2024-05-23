@@ -1,16 +1,1 @@
-POST http://localhost:3000/users
-Content-Type: application/json
-
-{
-  "name": "Giovana Lorena Rocha",
-  "email": "giovanalorenarocha@construtoraplaneta.com.br",
-  "confirm_email": "giovanalorenarocha@construtoraplaneta.com.br",
-  "password": "OqD5EkK7of",
-  "confirm_password": "OqD5EkK7of",
-  "salon": true,
-  "kitchen": false
-}
-
-####
-
-GET http:localhost:3000/users
+GET http:localhost:3000
