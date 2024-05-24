@@ -28,9 +28,12 @@ class Orders {
   @Column()
   product_id!: number;
 
-  @OneToOne(() => Products)
-  @JoinColumn()
-  product!: Products;
+  @OneToOne(() => Products, (product) => product.product_id, {
+    cascade: ['insert', 'update']
+  })
+
+  @JoinColumn({ name: 'product_id' })
+  product!: Products[];
 }
 
 export default Orders;

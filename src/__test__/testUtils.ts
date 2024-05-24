@@ -93,3 +93,47 @@ export const product = {
   "image_url": "https://res.cloudinary.com/ananopaisdojavascript/image/upload/v1716126386/burger-queen-image/sandwhich_tabqjj.jpg",
   "category": "Café da manhã"
 }
+
+export const ordersArr = [
+  {
+    "order_id": 1,
+    "client_name": "Pedro Henrique Miguel Iago Almeida",
+    "server_name": "Helena Sebastiana Joana Brito",
+    "table_number": 5,
+    "quantity": 1,
+    "product_id": 1
+  }
+]
+
+export const order = {
+  "order_id": 1,
+  "client_name": "Pedro Henrique Miguel Iago Almeida",
+  "server_name": "Helena Sebastiana Joana Brito",
+  "table_number": 5,
+  "quantity": 1,
+  "product_id": 1
+}
+
+export const createOrder = {
+  "client_name": "Gabriel Vicente Mendes",
+  "server_name": "Stella Sophia Lara Ramos",
+  "table_number": 3,
+  "quantity": 1,
+  "product_id": 9
+}
+
+export const updateOrder = {
+  "client_name": "Gabriel Vicente Mendes",
+  "server_name": "Stella Ramos",
+  "table_number": 3,
+  "quantity": 1,
+  "product_id": 9
+}
+
+export const deleteOrder = {
+  "client_name": "Gabriel Vicente Mendes",
+  "server_name": "Stella Ramos",
+  "table_number": 3,
+  "quantity": 1,
+  "product_id": 9
+}

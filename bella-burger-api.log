@@ -252,3 +252,92 @@
 2024-05-23T02:03:47.939Z [bella-burger-api] info : Bella Burger API is running on port 3000
 2024-05-23T02:04:17.097Z [bella-burger-api] info : GET /orders
 2024-05-23T02:06:19.885Z [bella-burger-api] error : POST  - Relation with property path product_id in entity was not found.
+2024-05-23T20:58:36.201Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T20:58:55.922Z [bella-burger-api] info : GET /orders
+2024-05-23T21:02:22.883Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:07:05.937Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:12:56.913Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:13:18.571Z [bella-burger-api] error : POST  - erro de sintaxe no fim da entrada
+2024-05-23T21:14:48.580Z [bella-burger-api] info : GET /orders
+2024-05-23T21:20:27.799Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:21:15.356Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:21:22.725Z [bella-burger-api] info : GET /orders
+2024-05-23T21:21:26.695Z [bella-burger-api] error : POST  - erro de sintaxe no fim da entrada
+2024-05-23T21:22:34.139Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:22:50.164Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:22:53.747Z [bella-burger-api] error : POST  - Relation with property path product_id in entity was not found.
+2024-05-23T21:23:23.370Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:23:27.254Z [bella-burger-api] error : POST  - erro de sintaxe no fim da entrada
+2024-05-23T21:25:35.688Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:25:43.949Z [bella-burger-api] error : POST  - erro de sintaxe no fim da entrada
+2024-05-23T21:27:00.211Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:29:30.549Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:29:40.199Z [bella-burger-api] error : POST  - You must provide selection conditions in order to find a single row.
+2024-05-23T21:33:34.564Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:33:39.830Z [bella-burger-api] info : POST /orders - {"client_name":"Pedro Henrique Miguel Iago Almeida","server_name":"Helena Sebastiana Joana Brito","table_number":5,"quantity":1,"product_id":1,"order_id":1}
+2024-05-23T21:34:30.850Z [bella-burger-api] info : GET /orders
+2024-05-23T21:34:58.239Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:36:28.176Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:36:34.335Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:42:06.115Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:42:19.711Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:43:31.857Z [bella-burger-api] info : POST /orders - {"client_name":"Bryan Tiago Sales","server_name":"Helena Sebastiana Joana Brito","table_number":10,"quantity":2,"product_id":6,"order_id":2}
+2024-05-23T21:44:28.504Z [bella-burger-api] info : GET /orders
+2024-05-23T21:46:03.632Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:46:33.576Z [bella-burger-api] info : GET /orders/:id
+2024-05-23T21:52:53.599Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:57:16.406Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:57:25.698Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:57:54.351Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:58:20.970Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T21:58:51.919Z [bella-burger-api] error : PUT  - Empty criteria(s) are not allowed for the update method.
+2024-05-23T22:00:03.453Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T22:00:16.471Z [bella-burger-api] error : PUT  - Empty criteria(s) are not allowed for the update method.
+2024-05-23T23:19:28.676Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:19:41.574Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:19:56.475Z [bella-burger-api] info : PUT /orders - {"order_id":2,"client_name":"Bryan Tiago Sales","server_name":"Helena Sebastiana Joana Brito","table_number":10,"quantity":1,"product_id":8}
+2024-05-23T23:20:06.324Z [bella-burger-api] info : GET /orders/:id
+2024-05-23T23:20:11.184Z [bella-burger-api] info : GET /orders
+2024-05-23T23:24:10.910Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:24:44.100Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:25:23.691Z [bella-burger-api] info : GET /orders
+2024-05-23T23:41:19.007Z [bella-burger-api] info : GET /products
+2024-05-23T23:41:31.419Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:42:23.051Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:43:19.294Z [bella-burger-api] info : GET /users
+2024-05-23T23:43:19.370Z [bella-burger-api] info : GET /user/:id
+2024-05-23T23:43:19.373Z [bella-burger-api] info : GET /products
+2024-05-23T23:43:19.454Z [bella-burger-api] info : GET /products/:id
+2024-05-23T23:43:38.033Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:45:09.754Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:46:42.392Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:47:27.058Z [bella-burger-api] info : GET /users
+2024-05-23T23:47:27.057Z [bella-burger-api] info : GET /products
+2024-05-23T23:47:27.151Z [bella-burger-api] info : GET /user/:id
+2024-05-23T23:47:27.151Z [bella-burger-api] info : GET /products/:id
+2024-05-23T23:48:34.731Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:48:44.975Z [bella-burger-api] info : GET /products
+2024-05-23T23:48:44.976Z [bella-burger-api] info : GET /users
+2024-05-23T23:48:45.065Z [bella-burger-api] info : GET /user/:id
+2024-05-23T23:48:45.072Z [bella-burger-api] info : GET /products/:id
+2024-05-23T23:50:12.539Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:51:30.259Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:52:30.478Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:58:54.748Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-23T23:59:12.320Z [bella-burger-api] info : GET /products
+2024-05-23T23:59:12.320Z [bella-burger-api] info : GET /users
+2024-05-23T23:59:12.324Z [bella-burger-api] info : GET /orders
+2024-05-23T23:59:12.417Z [bella-burger-api] info : GET /user/:id
+2024-05-23T23:59:12.417Z [bella-burger-api] info : GET /products/:id
+2024-05-23T23:59:12.418Z [bella-burger-api] info : GET /orders/:id
+2024-05-24T00:03:53.866Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-24T00:04:12.934Z [bella-burger-api] info : GET /users
+2024-05-24T00:04:12.952Z [bella-burger-api] info : GET /products
+2024-05-24T00:04:13.007Z [bella-burger-api] info : GET /user/:id
+2024-05-24T00:04:13.027Z [bella-burger-api] info : GET /products/:id
+2024-05-24T00:04:13.048Z [bella-burger-api] info : GET /orders
+2024-05-24T00:04:13.117Z [bella-burger-api] info : GET /orders/:id
+2024-05-24T00:04:13.200Z [bella-burger-api] info : POST /orders - {"client_name":"Gabriel Vicente Mendes","server_name":"Stella Sophia Lara Ramos","table_number":3,"quantity":1,"product_id":9,"order_id":3}
+2024-05-24T00:04:13.269Z [bella-burger-api] info : PUT /orders - {"order_id":3,"client_name":"Gabriel Vicente Mendes","server_name":"Stella Ramos","table_number":3,"quantity":1,"product_id":9}
+2024-05-24T00:04:28.545Z [bella-burger-api] info : GET /orders
+2024-05-24T00:04:31.767Z [bella-burger-api] info : GET /orders
