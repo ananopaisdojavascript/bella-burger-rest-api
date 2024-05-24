@@ -62,6 +62,16 @@ export const user = {
   "kitchen": true
 }
 
+export const deleteUser = {
+  "name": "Márcio Nelson Pinto",
+  "email": "marcio.nelson.pinto@unifox.com.br",
+  "confirm_email": "marcio.nelson.pinto@unifox.com.br",
+  "password": "k3XnUsGTrC",
+  "confirm_password": "k3XnUsGTrC",
+  "salon": false,
+  "kitchen": true
+}
+
 export const productsArr = [
   {
     "product_id": 1,

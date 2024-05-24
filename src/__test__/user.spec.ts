@@ -2,7 +2,7 @@ import request from 'supertest';
 import app from '../app';
 import AppDataSource from '../database/data-source';
 import Users from '../entity/user.entity';
-import { newUser, usersArr, user } from './testUtils';
+import { newUser, usersArr, user, deleteUser } from './testUtils';
 
 
 const connection = AppDataSource.setOptions({
@@ -31,6 +31,13 @@ describe('GET /users', () => {
 describe('POST /users', () => { 
   it.skip('responds with new user', async function () {
     const response = await request(app).post('/users').send(newUser)
+    expect(response.status).toBe(200)
+  });
+})
+
+describe('DELETE /users', () => { 
+  it.skip('should delete an user', async function () {
+    const response = await request(app).delete('/users/18').send(deleteUser)
     expect(response.status).toBe(200)
   });
 })

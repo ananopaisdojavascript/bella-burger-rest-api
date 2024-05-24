@@ -52,8 +52,18 @@ async function createUser(request: Request, response: Response, next: NextFuncti
 
 }
 
+async function deleteUser(request: Request, response: Response, next: NextFunction) {
+  try {
+    const results = await AppDataSource.getRepository(Users).delete(request.params.id)
+    return response.send(results)
+  } catch (error) {
+    next(error)
+  }
+}
+
 export default {
   getUsers,
   createUser,
-  getUser
+  getUser,
+  deleteUser
 }
