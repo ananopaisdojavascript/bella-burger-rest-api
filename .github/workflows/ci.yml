@@ -25,3 +25,9 @@ jobs:
     - run: npm ci
     - run: npm install --save-dev typeorm
     - run: npm run build --if-present
+
+    - name: Build and push Docker image
+      env:
+        DOCKER_USERNAME: ${{secrets.DOCKER_USERNAME}}
+        DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
+        DOCKER_IMAGE_NAME: ananopaisdojavascript/teste:tagname
