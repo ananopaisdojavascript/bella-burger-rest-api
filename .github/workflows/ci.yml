@@ -30,4 +30,8 @@ jobs:
       env:
         DOCKER_USERNAME: ${{secrets.DOCKER_USERNAME}}
         DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}
-        DOCKER_IMAGE_NAME: ananopaisdojavascript/teste:tagname
+        DOCKER_IMAGE_NAME: ananopaisdojavascript/teste
+      run: |
+        docker build -t $DOCKER_IMAGE_NAME .
+        echo $DOCKER_PASSWORD | docker login -u $DOCKER_USERNAME --password-stdin
+        docker push $DOCKER_IMAGE_NAME
