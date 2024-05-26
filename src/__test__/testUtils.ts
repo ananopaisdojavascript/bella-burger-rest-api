@@ -9,46 +9,46 @@ export const newUser = {
 }
 
 export const usersArr = [
-  {
-    "id": 1,
-    "name": "Isabel Luiza Farias",
-    "email": "isabel-farias89@reisereis.com.br",
-    "confirm_email": "isabel-farias89@reisereis.com.br",
-    "password": "$2b$10$FtHqGwS1NtYpaA5bKFa2Gemxznmo0UFDlrrb1LqBNvjxyINRYNrH6",
-    "confirm_password": "$2b$10$FtHqGwS1NtYpaA5bKFa2Gemxznmo0UFDlrrb1LqBNvjxyINRYNrH6",
-    "salon": false,
-    "kitchen": true
-  },
-  {
-    "id": 2,
-    "name": "Tatiane Beatriz Nunes",
-    "email": "tatiane_beatriz_nunes@gerdal.com.br",
-    "confirm_email": "tatiane_beatriz_nunes@gerdal.com.br",
-    "password": "$2b$10$SIsn5stP/HlmXvsg0zehAOe7KPGthSp78mW9wIh3/1EU4VCx0TogS",
-    "confirm_password": "$2b$10$SIsn5stP/HlmXvsg0zehAOe7KPGthSp78mW9wIh3/1EU4VCx0TogS",
-    "salon": false,
-    "kitchen": true
-  },
-  {
-    "id": 3,
-    "name": "Adriana Carla Santos",
-    "email": "adrianacarlasantos@editorazap.com.br",
-    "confirm_email": "adrianacarlasantos@editorazap.com.br",
-    "password": "$2b$10$y2NEmqIwQ3VajcdjQbzSN.x7Y6DyyAJKaq0kxo/x4xID.5wdlK9iC",
-    "confirm_password": "$2b$10$y2NEmqIwQ3VajcdjQbzSN.x7Y6DyyAJKaq0kxo/x4xID.5wdlK9iC",
-    "salon": false,
-    "kitchen": true
-  },
-  {
-    "id": 4,
-    "name": "Carlos Giovanni Sebastião Galvão",
-    "email": "carlosgiovannigalvao@tahoo.com.br",
-    "confirm_email": "carlosgiovannigalvao@tahoo.com.br",
-    "password": "$2b$10$IpBIqyZnyrdypaDHAP5dve/oKHfxl9qMyT62SSDyBP9x9BGUOGjwC",
-    "confirm_password": "$2b$10$IpBIqyZnyrdypaDHAP5dve/oKHfxl9qMyT62SSDyBP9x9BGUOGjwC",
-    "salon": false,
-    "kitchen": true
-  }
+	{
+		"id": 1,
+		"name": "Isabel Luiza Farias",
+		"email": "isabel-farias89@reisereis.com.br",
+		"confirm_email": "isabel-farias89@reisereis.com.br",
+		"password": "$2b$10$PTeeXuErkq5lCAso/Qz9VuIMp9OU9FkiOapMa1OpYQA7UVX4g1bGS",
+		"confirm_password": "$2b$10$PTeeXuErkq5lCAso/Qz9VuIMp9OU9FkiOapMa1OpYQA7UVX4g1bGS",
+		"salon": false,
+		"kitchen": true
+	},
+	{
+		"id": 2,
+		"name": "Tatiane Beatriz Nunes",
+		"email": "tatiane_beatriz_nunes@gerdal.com.br",
+		"confirm_email": "tatiane_beatriz_nunes@gerdal.com.br",
+		"password": "$2b$10$n4QicTbS5b9taNZDea3Q4eRDjI2KdG9XwzvET3quc74FAqzUwhIeS",
+		"confirm_password": "$2b$10$n4QicTbS5b9taNZDea3Q4eRDjI2KdG9XwzvET3quc74FAqzUwhIeS",
+		"salon": false,
+		"kitchen": true
+	},
+	{
+		"id": 3,
+		"name": "Noah João Eduardo Almeida",
+		"email": "noah-almeida92@gerdal.com.br",
+		"confirm_email": "noah-almeida92@gerdal.com.br",
+		"password": "$2b$10$KPYrnhHn71YGFvGoXZtrnOPtMWqs6L6Bvjf6Xrd/ppuBz/z9pdH7.",
+		"confirm_password": "$2b$10$KPYrnhHn71YGFvGoXZtrnOPtMWqs6L6Bvjf6Xrd/ppuBz/z9pdH7.",
+		"salon": true,
+		"kitchen": false
+	},
+	{
+		"id": 4,
+		"name": "Isadora Mirella Fernanda da Conceição",
+		"email": "isadora_daconceicao@willianareiaepedra.com.br",
+		"confirm_email": "isadora_daconceicao@willianareiaepedra.com.br",
+		"password": "$2b$10$.MR7xwk4PXxGjg58rbNDDetLPHjmsIouFlgnkYQ/7AogQUy2O4sI2",
+		"confirm_password": "$2b$10$.MR7xwk4PXxGjg58rbNDDetLPHjmsIouFlgnkYQ/7AogQUy2O4sI2",
+		"salon": true,
+		"kitchen": false
+	}
 ]
 
 export const user = {

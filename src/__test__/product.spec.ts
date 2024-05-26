@@ -14,6 +14,10 @@ beforeEach(async () => {
   await connection.initialize()
 })
 
+afterEach(async () => {
+  await connection.destroy()
+})
+
 describe('GET /products', () => {
 
   it('responds with users array', async function () {
@@ -27,6 +31,3 @@ describe('GET /products', () => {
   });
 })
 
-afterEach(async () => {
-  await connection.destroy()
-})

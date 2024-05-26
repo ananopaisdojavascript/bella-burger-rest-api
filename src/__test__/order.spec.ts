@@ -15,6 +15,11 @@ beforeEach(async () => {
   await connection.initialize()
 })
 
+
+afterEach(async () => {
+  await connection.destroy()
+})
+
 describe('GET /orders', () => {
 
   it('responds with orders array', async function () {
@@ -29,26 +34,22 @@ describe('GET /orders', () => {
 })
 
 describe('POST /orders', () => {
-  it.skip('should create an order', async function() {
+  it('should create an order', async function() {
     const response = await request(app).post('/orders').send(createOrder)
     expect(response.status).toBe(200)
   })
 })
 
 describe('PUT /orders', () => {
-  it.skip('should update an order', async function() {
-    const response = await request(app).put('/orders/3').send(updateOrder)
+  it('should update an order', async function() {
+    const response = await request(app).put('/orders/2').send(updateOrder)
     expect(response.status).toBe(200)
   })
 })
 
 describe('DELETE /orders', () => {
-  it.skip('should delete an order', async function() {
-    const response = await request(app).delete('/orders/3').send(deleteOrder)
+  it('should delete an order', async function() {
+    const response = await request(app).delete('/orders/2').send(deleteOrder)
     expect(response.status).toBe(200)
   })
-})
-
-afterEach(async () => {
-  await connection.destroy()
 })
