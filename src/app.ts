@@ -5,6 +5,7 @@ import UserRouter from './routes/user.route';
 import LoginRouter from './routes/login.route';
 import ProductRouter from './routes/product.route';
 import OrderRouter from './routes/order.route';
+import timeout from 'connect-timeout';
 
 const app = express();
 
@@ -30,6 +31,7 @@ export const logger = winston.createLogger({
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+app.use(timeout(300000))
 
 app.use(UserRouter)
 app.use(LoginRouter)
