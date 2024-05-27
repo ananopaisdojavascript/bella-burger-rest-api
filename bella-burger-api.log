@@ -57,3 +57,33 @@
 2024-05-26T17:13:02.366Z [bella-burger-api] info : GET /orders/:id
 2024-05-26T17:13:02.424Z [bella-burger-api] info : POST /users - {"name":"Márcio Nelson Pinto","email":"marcio.nelson.pinto@unifox.com.br","confirm_email":"marcio.nelson.pinto@unifox.com.br","password":"$2b$10$IG2tqzen38/27jb40yx.kuvkrPk5h9AA31q0lBfLRUOCgMKURwav2","confirm_password":"$2b$10$IG2tqzen38/27jb40yx.kuvkrPk5h9AA31q0lBfLRUOCgMKURwav2","salon":false,"kitchen":true,"id":25}
 2024-05-26T17:13:02.493Z [bella-burger-api] error : POST  - duplicar valor da chave viola a restrição de unicidade "UQ_ac832121b6c331b084ecc4121fd"
+2024-05-27T17:20:34.356Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:20:46.214Z [bella-burger-api] error : GET  - No metadata for "Products" was found.
+2024-05-27T17:21:18.866Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:22:42.005Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:22:59.864Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:23:23.699Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-27T17:28:23.474Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:30:19.890Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:30:26.013Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-27T17:32:31.104Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:36:24.102Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:40:34.508Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:40:48.523Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:40:59.537Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:41:05.519Z [bella-burger-api] error : GET  - No metadata for "Users" was found.
+2024-05-27T17:44:12.970Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:44:24.103Z [bella-burger-api] error : GET  - No metadata for "Products" was found.
+2024-05-27T17:46:47.386Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:46:54.618Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:46:58.505Z [bella-burger-api] error : GET  - No metadata for "Products" was found.
+2024-05-27T17:48:13.998Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:48:18.866Z [bella-burger-api] error : GET  - No metadata for "Products" was found.
+2024-05-27T17:51:53.921Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:52:07.058Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:52:27.953Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:52:36.321Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:52:40.208Z [bella-burger-api] error : GET  - No metadata for "Products" was found.
+2024-05-27T17:53:38.592Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:54:07.020Z [bella-burger-api] info : Bella Burger API is running on port 3000
+2024-05-27T17:54:11.002Z [bella-burger-api] error : GET  - No metadata for "Products" was found.

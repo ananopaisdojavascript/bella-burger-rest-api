@@ -7,7 +7,7 @@ import { newUser, usersArr, user, deleteUser } from './testUtils';
 
 const connection = AppDataSource.setOptions({
   entities: [Users],
-  synchronize: true,
+  synchronize: false,
   logging: true
 })
 
@@ -15,9 +15,6 @@ beforeEach(async () => {
   await connection.initialize()
 })
 
-afterEach(async () => {
-  await connection.destroy()
-})
 
 describe('GET /users', () => {
 
@@ -41,7 +38,11 @@ describe('POST /users', () => {
 
 describe('DELETE /users', () => { 
   it.skip('should delete an user', async function () {
-    const response = await request(app).delete('/users/18').send(deleteUser)
+    const response = await request(app).delete('/users/4').send(deleteUser)
     expect(response.status).toBe(200)
   });
+})
+
+afterEach(async () => {
+  await connection.destroy()
 })

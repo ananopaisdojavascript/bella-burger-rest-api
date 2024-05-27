@@ -7,17 +7,12 @@ import Products from '../entity/product.entity';
 
 const connection = AppDataSource.setOptions({
   entities: [Orders, Products],
-  synchronize: true,
+  synchronize: false,
   logging: true
 })
 
 beforeEach(async () => {
   await connection.initialize()
-})
-
-
-afterEach(async () => {
-  await connection.destroy()
 })
 
 describe('GET /orders', () => {
@@ -52,4 +47,8 @@ describe('DELETE /orders', () => {
     const response = await request(app).delete('/orders/2').send(deleteOrder)
     expect(response.status).toBe(200)
   })
+})
+
+afterEach(async () => {
+  await connection.destroy()
 })

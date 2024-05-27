@@ -14,8 +14,8 @@ export const usersArr = [
 		"name": "Isabel Luiza Farias",
 		"email": "isabel-farias89@reisereis.com.br",
 		"confirm_email": "isabel-farias89@reisereis.com.br",
-		"password": "$2b$10$PTeeXuErkq5lCAso/Qz9VuIMp9OU9FkiOapMa1OpYQA7UVX4g1bGS",
-		"confirm_password": "$2b$10$PTeeXuErkq5lCAso/Qz9VuIMp9OU9FkiOapMa1OpYQA7UVX4g1bGS",
+		"password": "$2b$10$EJ5RzKhdODj7p5/0O4hsZO5XODldZhYAXQPxk.mj5yfswSl4kRK..",
+		"confirm_password": "$2b$10$EJ5RzKhdODj7p5/0O4hsZO5XODldZhYAXQPxk.mj5yfswSl4kRK..",
 		"salon": false,
 		"kitchen": true
 	},
@@ -24,30 +24,20 @@ export const usersArr = [
 		"name": "Tatiane Beatriz Nunes",
 		"email": "tatiane_beatriz_nunes@gerdal.com.br",
 		"confirm_email": "tatiane_beatriz_nunes@gerdal.com.br",
-		"password": "$2b$10$n4QicTbS5b9taNZDea3Q4eRDjI2KdG9XwzvET3quc74FAqzUwhIeS",
-		"confirm_password": "$2b$10$n4QicTbS5b9taNZDea3Q4eRDjI2KdG9XwzvET3quc74FAqzUwhIeS",
+		"password": "$2b$10$Cw4WgQFmAI6sKd/0yx5YXeAd5.FvmHAtbVsrdaJRn1yOMhWLm/G3K",
+		"confirm_password": "$2b$10$Cw4WgQFmAI6sKd/0yx5YXeAd5.FvmHAtbVsrdaJRn1yOMhWLm/G3K",
 		"salon": false,
 		"kitchen": true
 	},
 	{
 		"id": 3,
-		"name": "Noah João Eduardo Almeida",
-		"email": "noah-almeida92@gerdal.com.br",
-		"confirm_email": "noah-almeida92@gerdal.com.br",
-		"password": "$2b$10$KPYrnhHn71YGFvGoXZtrnOPtMWqs6L6Bvjf6Xrd/ppuBz/z9pdH7.",
-		"confirm_password": "$2b$10$KPYrnhHn71YGFvGoXZtrnOPtMWqs6L6Bvjf6Xrd/ppuBz/z9pdH7.",
-		"salon": true,
-		"kitchen": false
-	},
-	{
-		"id": 4,
-		"name": "Isadora Mirella Fernanda da Conceição",
-		"email": "isadora_daconceicao@willianareiaepedra.com.br",
-		"confirm_email": "isadora_daconceicao@willianareiaepedra.com.br",
-		"password": "$2b$10$.MR7xwk4PXxGjg58rbNDDetLPHjmsIouFlgnkYQ/7AogQUy2O4sI2",
-		"confirm_password": "$2b$10$.MR7xwk4PXxGjg58rbNDDetLPHjmsIouFlgnkYQ/7AogQUy2O4sI2",
-		"salon": true,
-		"kitchen": false
+		"name": "Adriana Carla Santos",
+		"email": "adrianacarlasantos@editorazap.com.br",
+		"confirm_email": "adrianacarlasantos@editorazap.com.br",
+		"password": "$2b$10$Owz4AotPdjkHQCGkNAhy8.mycM.Lg3AxzEZbHFM8q0g8aU2cjUiUu",
+		"confirm_password": "$2b$10$Owz4AotPdjkHQCGkNAhy8.mycM.Lg3AxzEZbHFM8q0g8aU2cjUiUu",
+		"salon": false,
+		"kitchen": true
 	}
 ]
 

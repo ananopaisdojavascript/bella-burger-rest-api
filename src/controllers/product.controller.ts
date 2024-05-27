@@ -50,3 +50,4 @@ export default {
   createProduct,
   getProduct
 }
+

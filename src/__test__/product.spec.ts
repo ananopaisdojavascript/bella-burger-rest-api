@@ -6,7 +6,7 @@ import Products from '../entity/product.entity';
 
 const connection = AppDataSource.setOptions({
   entities: [Products],
-  synchronize: true,
+  synchronize: false,
   logging: true
 })
 
@@ -14,9 +14,6 @@ beforeEach(async () => {
   await connection.initialize()
 })
 
-afterEach(async () => {
-  await connection.destroy()
-})
 
 describe('GET /products', () => {
 
@@ -31,3 +28,6 @@ describe('GET /products', () => {
   });
 })
 
+afterEach(async () => {
+  await connection.destroy()
+})
