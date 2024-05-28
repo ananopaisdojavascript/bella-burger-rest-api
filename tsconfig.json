@@ -4,7 +4,7 @@
     "experimentalDecorators": true,                  
     "emitDecoratorMetadata": true,                    
     "module": "commonjs",                                
-    "rootDir": "./src",                                  
+    // "rootDir": "./src",                                  
     "outDir": "./build",                                  
     "esModuleInterop": true,                             
     "forceConsistentCasingInFileNames": true,            
@@ -13,6 +13,7 @@
     "skipLibCheck": true 
   },
   "include": [
-    "src/**/*.ts"
+    "src/**/*.ts",
+    "./api/*.ts"
   ]
 }
