@@ -1,3 +1,4 @@
 node_modules
-http.rest
-.vercel
+http.rest/
+.vercel/
+.env/
